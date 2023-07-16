@@ -1,0 +1,54 @@
+============ case 1:
+2
+P-001
+Adam
+Sukoharjo
++6281234567890
+3
+P-002
+Sahid
+Yogyakarta
++6280000000000
+1
+P-001
+20
+P-002
+30
+
+============ case 2:
+5
+P-30411
+Sakata Gintoki
+Edo
++8100000000000
+3
+P-02402
+Kagura
+Moon Planet
++8111111111111
+3
+P-88888
+Shimura Shinpachi
+Kyoto
++8188888888888
+2
+P-00000
+Sadaharu
+Uchuu
++8138732397402
+1
+Z-XYXYX
+Hasegawa Taizo
+Edo
+Madao doesn't have any phone
+2
+Z-XYXYX
+0
+P-02402
+20
+P-00000
+30
+P-88888
+88
+P-30411
+50
